@@ -20,7 +20,7 @@ We provide a direct download link right here! [Download latest build](http://94.
 
 Current Specs
 -----------------
-  - Protocol: #47 (1.8.*)
+  - Protocol: #56 (15w33b)
   - World Format: Custom
   - Multiworld: Supported
   - Physics: Partial
